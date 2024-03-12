@@ -11,3 +11,17 @@ At a minimum you will need a Virtual Private Server (VPS) with modest specs to g
 3GB of RAM (Recommend 4GB as a reasonable minimum)
 20GB Hard Drive Space
 
+## Section 1: SteamCMD
+The first thing you will need to do is install SteamCMD onto your machine, and prepare it to download the Nebulous Dedicated Server binaries to your machine. 
+
+ToDo: Add SteamCMD Steps
+
+## Section 2: Install the Nebulous Dedicated Server using SteamCMD commands
+This section talks about downloading the Nebulous Server using a SteamCMD script file, and executing it from the shell to configure everything.
+
+## Section 3: Configuring your Server Variables
+This section will help you navigate the configuration files and get your server up on the browser! 
+
+## Section 4: Configuring your Firewall to allow traffic out to the world! (If Applicable)
+
+## Section 5: Starting your server
